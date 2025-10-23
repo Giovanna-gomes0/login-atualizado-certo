@@ -1,0 +1,76 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div{
+  width: 500px;
+  height:60vh;
+  background: #c9c9c9;
+  border-radius: 15px;
+  margin-top: 5%;
+}
+h1{
+  color: #000000;
+  font-family: Arial, sans-serif;
+  text-align-last: left;
+  width: 1%;
+  margin-left: 35%;
+}
+h2{
+  color: #000;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  width: 50%;
+  margin-top: 35vh;
+  margin-left: 35%;
+}
+h3{
+  color: #0e3588;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  width: 30%;
+  margin-top: -25vh;
+  margin-left: 60%;
+  font-size: 15px;
+}
+input{
+  width: 350px;
+  height: 40px;
+  border-radius: 20px;
+  border: 20;
+  float: left;
+  margin-top: 5vh;
+  margin-left: 55px;
+  text-indent: 10px;
+}
+button{
+  width: 300px;
+  height: 35px;
+  margin-left: 95px;
+  background-color: #005e8a;
+  padding: 1px 10px;
+  border-radius: 12px;
+  color: #000000;
+  float: left;
+  margin-top: 3vh;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  color: #fff;
+  border: 0;
+}
+#apple{
+  width: 15%;
+  margin-left: 55%;
+  margin-top: 4vh;
+}
+#facebook{
+  width: 15%;
+  margin-left: -40%;
+  margin-top: 4vh;
+}
+#google{
+  width: 15%;
+  margin-left: -3%;
+  margin-top: 4vh;
+}
