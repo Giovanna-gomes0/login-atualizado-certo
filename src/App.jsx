@@ -15,6 +15,11 @@ function App() {
 
       <input type="text" placeholder='Senha' />
 
+      <h4>
+        <input type="checkbox" name="" id="" />
+        Mantenha me conectado
+      </h4>   
+
       <p></p>
 
       <button class='app-button'> ENTRAR </button>
@@ -24,19 +29,14 @@ function App() {
       <img src={facebook} alt="" id="facebook" />
       <img src={google} alt="" id="google" />
       
-      <h4>
-        Mantenha me conectado
-      </h4>
-     <div> 
+      
+      
+
       <a href="http://"> 
       <h3>Esqueceu a senha?</h3>
       </a>
-
-      </div>
-
-       </div>
-
-    
+  
+       </div> 
       
     </>
   )
