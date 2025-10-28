@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
       <h1>Login</h1>
-    
+      
       <input type="text" placeholder='Usuário' />
 
       <input type="text" placeholder='Senha' />
@@ -20,8 +20,6 @@ function App() {
         Mantenha me conectado
       </h4>   
 
-      <p></p>
-
       <button class='app-button'> ENTRAR </button>
       
       <h2>Logar Com</h2>
@@ -29,14 +27,15 @@ function App() {
       <img src={facebook} alt="" id="facebook" />
       <img src={google} alt="" id="google" />
       
-      
-      
-
       <a href="http://"> 
       <h3>Esqueceu a senha?</h3>
       </a>
   
+      <a href="http://"> 
+      <h5> Não tem uma conta? Inscrever-se</h5>
+      </a>
        </div> 
+       
       
     </>
   )
