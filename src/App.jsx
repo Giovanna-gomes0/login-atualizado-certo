@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
       <h1>Login</h1>
-   
+    
       <input type="text" placeholder='Usuário' />
 
       <input type="text" placeholder='Senha' />
