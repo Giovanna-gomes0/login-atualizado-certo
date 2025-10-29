@@ -3,7 +3,7 @@ import './App.css'
 import apple from './assets/Apple-Logo.png'
 import facebook from './assets/Facebook-Logo.png'
 import google from './assets/Google-Emblema.png'
-
+<link rel="stylesheet" href="./assets/Cadastro.jsx" />
 function App() {
 
   return (
@@ -35,6 +35,21 @@ function App() {
       <h5> Não tem uma conta? Inscrever-se</h5>
       </a>
        </div> 
+
+       <div>
+
+        <cad>Cadastro</cad>
+        <input type="text" placeholder='Nome' />
+
+      <input type="text" placeholder='E-mail' />
+
+      <input type="text" placeholder='CPF' />
+
+      <input type="text" placeholder='Usuario' />
+
+      <input type="text" placeholder='Senha' />
+
+       </div>
        
       
     </>

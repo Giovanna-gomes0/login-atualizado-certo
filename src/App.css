@@ -17,8 +17,16 @@ h1{
   width: 1%;
   margin-left: 35%;
 }
+cad{
+  color: #000000;
+  font-family: Arial, sans-serif;
+  text-align-last: left;
+  width: 1%;
+  margin-left: 35%;
+  margin-top: 0vh;
+}
 h2{
-  color: #000;
+  color: #000000;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   width: 45%;
   margin-top: 37vh;
